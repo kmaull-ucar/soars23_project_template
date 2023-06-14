@@ -86,15 +86,10 @@ Gravida rutrum quisque non tellus orci ac auctor. Tincidunt dui ut
 ornare lectus sit amet est placerat. Mauris in aliquam sem fringilla ut
 morbi tincidunt augue. Volutpat sed cras ornare arcu dui vivamus.
 
-  --------------------------------------------------------------------------------------------
-        RQ       Summary                      Notebook
-  -------------- ---------------------------- ------------------------------------------------
-        1        How can we detect the mass   [./analysis/nb01.ipynb](./analysis/nb01.ipynb)
-                 of dark matter?              
-
-        2        How can we detect the mass   [./analysis/nb02.ipynb](./analysis/nb02.ipynb)
-                 of subspace?                 
-  --------------------------------------------------------------------------------------------
+|  RQ |   Summary | Notebook |
+| :---: | ----------|----------|
+| 1 | How can we detect  the mass of dark matter? | [./analysis/nb01.ipynb](./analysis/nb01.ipynb) |
+| 2 | How can we detect  the mass of subspace? | [./analysis/nb02.ipynb](./analysis/nb02.ipynb) |
 
 # Data
 
@@ -104,10 +99,7 @@ Gravida rutrum quisque non tellus orci ac auctor. Tincidunt dui ut
 ornare lectus sit amet est placerat. Mauris in aliquam sem fringilla ut
 morbi tincidunt augue. Volutpat sed cras ornare arcu dui vivamus.
 
-  ------------------------------------------------------------------------
-       Data      Summary                      Location
-  -------------- ---------------------------- ----------------------------
-    EPA source   This folder contains EPA     [./data/epa/](./data/epa)
-                 source data.                 
 
-  ------------------------------------------------------------------------
+|  Data |   Summary | Location |
+| :---: | ----------|----------|
+| EPA source | This folder contains EPA source data. | [./data/epa/](./data/epa) |
