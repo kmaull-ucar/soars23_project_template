@@ -12,49 +12,6 @@ adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Placerat in
 egestas erat imperdiet sed. Ultricies tristique nulla aliquet enim
 tortor at auctor urna.
 
-A condimentum vitae sapien pellentesque habitant. Eget nunc lobortis
-mattis aliquam. Ornare arcu dui vivamus arcu felis bibendum. Maecenas
-ultricies mi eget mauris pharetra et. Odio ut sem nulla pharetra diam.
-Sagittis purus sit amet volutpat consequat mauris nunc congue. Eget
-aliquet nibh praesent tristique magna sit amet purus gravida. Sed velit
-dignissim sodales ut eu. Iaculis urna id volutpat lacus laoreet non
-curabitur. Et malesuada fames ac turpis egestas maecenas. Sagittis orci
-a scelerisque purus semper eget duis. Erat velit scelerisque in dictum
-non consectetur a erat. Vulputate odio ut enim blandit volutpat maecenas
-volutpat blandit. Risus viverra adipiscing at in tellus integer feugiat.
-Amet nulla facilisi morbi tempus iaculis. Nisl condimentum id venenatis
-a condimentum vitae sapien. Quis imperdiet massa tincidunt nunc pulvinar
-sapien. At erat pellentesque adipiscing commodo elit. Lacus sed viverra
-tellus in.
-
-Morbi tristique senectus et netus et malesuada. Risus commodo viverra
-maecenas accumsan lacus. Facilisis magna etiam tempor orci. Sed id
-semper risus in hendrerit gravida rutrum. Lorem sed risus ultricies
-tristique nulla aliquet enim tortor at. Ac auctor augue mauris augue
-neque. Lacus vel facilisis volutpat est. Posuere lorem ipsum dolor sit
-amet consectetur. Et ligula ullamcorper malesuada proin libero nunc
-consequat interdum varius. Sem integer vitae justo eget magna fermentum.
-Sit amet tellus cras adipiscing enim. Nullam non nisi est sit amet.
-Cursus in hac habitasse platea dictumst quisque sagittis purus sit.
-Tortor vitae purus faucibus ornare. Pellentesque pulvinar pellentesque
-habitant morbi tristique senectus et. Malesuada pellentesque elit eget
-gravida cum. Adipiscing enim eu turpis egestas pretium aenean. Maecenas
-sed enim ut sem viverra aliquet eget sit amet.
-
-Vitae aliquet nec ullamcorper sit amet risus. Blandit volutpat maecenas
-volutpat blandit aliquam etiam erat velit. Quis hendrerit dolor magna
-eget est. Risus viverra adipiscing at in. Eget sit amet tellus cras
-adipiscing enim eu turpis egestas. Pellentesque nec nam aliquam sem et
-tortor consequat id. Faucibus in ornare quam viverra orci sagittis eu.
-Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt.
-Faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget.
-Malesuada fames ac turpis egestas. Proin nibh nisl condimentum id
-venenatis a. Diam vulputate ut pharetra sit amet. Semper risus in
-hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum
-mattis ullamcorper velit. Non quam lacus suspendisse faucibus interdum
-posuere lorem. At lectus urna duis convallis. Molestie nunc non blandit
-massa enim nec dui nunc. Amet consectetur adipiscing elit duis tristique
-sollicitudin nibh sit. Porta nibh venenatis cras sed felis eget velit.
 
 Integer malesuada nunc vel risus commodo viverra maecenas. Fermentum
 posuere urna nec tincidunt praesent semper. Massa sed elementum tempus
@@ -103,3 +60,21 @@ morbi tincidunt augue. Volutpat sed cras ornare arcu dui vivamus.
 |  Data |   Summary | Location |
 | :---: | ----------|----------|
 | EPA source | This folder contains EPA source data. | [./data/epa/](./data/epa) |
+
+# Manuscript
+
+The manuscript for this project can be found:
+
+* (pdf) draft [./manuscript/manuscript.pdf](./manuscript/manuscript.pdf)
+
+# Citing This Work
+
+If you use this work, please cite it using the following citation:
+
+> Maull, K. E. SOARS 23 Research Repository Template. [DOI coming soon]
+
+# License
+
+CC-BY-4.0
+
+&copy; Keith E. Maull
